@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/unit10_code/Const_num.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/unit10_code/Foo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/unit10_code/PlayerTestDrive.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/unit10_code/STatic.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/unit10_code/TestFormats.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/unit10_code/boxing.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/unit11_code/MiniMiniMusicApp.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/unit11_code/MusicTest1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/unit12_code/MyDrawPanel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/unit12_code/MyOuter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/unit12_code/SimpleGui1B.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/unit12_code/TwoButtons.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/unit13_code/BeatBox.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/unit14_code/GameCharacter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/unit14_code/GameSaverTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/unit14_code/QuizCardBuilder.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/unit14_code/QuizCardPlayer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/unit14_code/ReadAFile.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/unit14_code/WriteAFile.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/unit15_code/RunThreads.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/unit15_code/SimpleChatClient.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/unit16_code/Jukebox1.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/unit16_code/Jukebox2.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/unit16_code/Jukebox5.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/unit1_code/PhraseMatic.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/unit1_code/beer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/unit3_code/data_and_using.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/unit5_code/GameHelper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/unit5_code/SimpleDotCom.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/unit5_code/SimpleDotComTestDrive.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/unit6_code/GameHelper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/unit6_code/dotcom.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/unit7_code/Animal.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/unit7_code/Overloads.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/unit7_code/SomeAboutObject.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/unit7_code/Surgeon.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/unit7_code/note.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/unit7_code/pet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/unit9_code/TestHippo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/unit9_code/useADuck.java" charset="GBK" />
+  </component>
+</project>
